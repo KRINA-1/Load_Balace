@@ -15,3 +15,4 @@ Algorithms Implemented
 Round Robin Algorithm
 Distributes client requests sequentially among servers. This ensures an even distribution of requests across all available servers.
 
+![1](https://github.com/user-attachments/assets/fe187bbc-353d-4bc1-a107-81df05d50547)
