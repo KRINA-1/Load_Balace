@@ -23,21 +23,24 @@ This project visualizes four common load balancing algorithms:
 ### Round Robin Algorithm
 Distributes client requests sequentially among servers. This ensures an even distribution of requests across all available servers.
 
-![Round Robin](./Load_balance_images/1.jpg)
+![Round Robin]![1](https://github.com/user-attachments/assets/e767adf7-000d-4542-b982-01be8cf93260)
+
 
 ---
 
 ### Weighted Round Robin Algorithm
 Assigns weights to servers, allowing servers with higher capacities to handle more requests. Requests are distributed based on the weights.
 
-![Weighted Round Robin](./Load_balance_images/2.jpg)
+![Weighted Round Robin]![2](https://github.com/user-attachments/assets/fc921ce6-a563-49c7-ae26-38f8ec58ea33)
+
 
 ---
 
 ### Least Connections Algorithm
 Assigns requests to the server with the least number of active connections. This ensures servers with lighter loads are prioritized.
 
-![Least Connections](./Load_balance_images/3.jpg)
+![Least Connections]![3](https://github.com/user-attachments/assets/1993dcd9-d55e-45a8-b690-51e740bb52eb)
+
 
 ---
 
