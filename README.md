@@ -16,3 +16,13 @@ Round Robin Algorithm
 Distributes client requests sequentially among servers. This ensures an even distribution of requests across all available servers.
 
 ![1](https://github.com/user-attachments/assets/fe187bbc-353d-4bc1-a107-81df05d50547)
+
+Weighted Round Robin Algorithm
+Assigns weights to servers, allowing servers with higher capacities to handle more requests. Requests are distributed based on the weights.
+
+![2](https://github.com/user-attachments/assets/73b090c7-93f0-4ee2-b6d2-d9e37d9b529c)
+
+Least Connections Algorithm
+Assigns requests to the server with the least number of active connections. This ensures servers with lighter loads are prioritized.
+
+![3](https://github.com/user-attachments/assets/1606a790-ffd7-4376-bce4-f8dc481f998b)
