@@ -11,3 +11,7 @@ Round Robin Algorithm
 Weighted Round Robin Algorithm
 Least Connections Algorithm
 Hash-Based Algorithm
+Algorithms Implemented
+Round Robin Algorithm
+Distributes client requests sequentially among servers. This ensures an even distribution of requests across all available servers.
+
